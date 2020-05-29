@@ -8,3 +8,6 @@ Projects and files corresponding to Datanomicsblog
 3. Analyzing Text with Natural Language Processing - [NLTK - Subject Line Testing](https://github.com/cchristine100/Datanomics/blob/master/NLTK%20-%20Subject%20Line%20Testing.ipynb)
 
 4. Classification using K-Nearest Neighbors - [KNN Iris Classification](https://github.com/cchristine100/Datanomics/blob/master/Iris%20Classification.ipynb)
+
+5. Customer Segmentation using K-Means Clustering - [K Means Clustering]
+(https://github.com/cchristine100/Datanomics/blob/master/KMeans_Segmentation.ipynb)
