@@ -12,3 +12,5 @@ Projects and files corresponding to Datanomicsblog
 5. Customer Segmentation using K-Means Clustering - [K Means Clustering](https://github.com/cchristine100/Datanomics/blob/master/KMeans_Segmentation.ipynb)
 
 6. Predicting Spam using a Decision Tree - [Spam Decision Tree](https://github.com/cchristine100/Datanomics/blob/master/DecisionTree_Spam.ipynb)
+
+7. Predicting Spam using a Random Forest & Optimization Techniques - [Spam Random Forest](https://github.com/cchristine100/Datanomics/blob/master/Spam_RandomForest_DecisionTree.ipynb)
